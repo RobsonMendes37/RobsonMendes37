@@ -1,5 +1,4 @@
-##  ✨Oiii eu sou a Robson Mendes, profissional de programação e tecnologia!✨
-<div align="center">
+##  Olá! Eu sou o Robson Mendes raised_hand_with_fingers_splayed
   <a href="https://github.com/RobsonMendes37">
 </div>
 
@@ -8,21 +7,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: sadfsfafdas
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning pyton, english advanced
+- ⚡ Fun fact: The life is Hard
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobsonMendes37&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobsonMendes37&show_icons=true&theme=tokyonight)
   
-  
-<div style="display: inline_block"><br>
+ ## Tecnologias que eu uso no meu dia 
+ <div style="display: inline_block"><br>
   <img align="center" alt="Robson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Robson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Robson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,7 +23,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Robson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Robson-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
-  ##
+  tecnologia e inovação é a minha paixão
   
  <div>
   <a href="https://instagram.com/robsonqueiroz37" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
