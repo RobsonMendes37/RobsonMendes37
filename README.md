@@ -1,4 +1,4 @@
-## Oiii eu sou a Robson Mendes, profissional e estudante de programação e tecnologia!
+##  ✨Oiii eu sou a Robson Mendes, profissional de programação e tecnologia!✨
 <div align="center">
   <a href="https://github.com/RobsonMendes37">
 </div>
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobsonMendes37&show_icons=true&theme=merko)
   
   
 <div style="display: inline_block"><br>
