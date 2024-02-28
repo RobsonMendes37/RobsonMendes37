@@ -1,4 +1,5 @@
-##  Olá! Eu sou o Robson Mendes🖐️
+## Hi there 👋
+
 
   <a href="https://github.com/RobsonMendes37">
 </div>
@@ -12,10 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The life is Hard
 -->
 
+![Snake animation](https://github.com/RobsonMendes37/RobsonMendes37/blob/output/github-contribution-grid-snake.svg)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobsonMendes37&show_icons=true&theme=tokyonight)
   
- ## Tecnologias que eu uso no meu dia 
+ ## Technologies I use in my daily life 
 <div style="display: inline_block">
   
   
@@ -34,9 +37,10 @@ Here are some ideas to get you started:
   
 </div><br/>
   
- Apaixonado por tecnologia,inovação e por mudar o mundo das pessoas através da programação.
+Passionate about technology, innovation, and changing people's world through programming.
   
- ## Redes Sociais
+ ## Social Media
+ 
  <div>
   <a href="https://instagram.com/robsonqueiroz37" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
