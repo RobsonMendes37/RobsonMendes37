@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The life is Hard
 -->
 
-![Snake animation](https://github.com/RobsonMendes37/RobsonMendes37/blob/output/github-contribution-grid-snake.svg)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobsonMendes37&show_icons=true&theme=tokyonight)
@@ -38,6 +37,8 @@ Here are some ideas to get you started:
 </div><br/>
   
 Passionate about technology, innovation, and changing people's world through programming.
+![Snake animation](https://github.com/RobsonMendes37/RobsonMendes37/blob/output/github-contribution-grid-snake.svg)
+
   
  ## Social Media
  
