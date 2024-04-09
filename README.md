@@ -1,54 +1,50 @@
-## Hi there 👋
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Robson</h1>
+<p align = "justify">Fullstack Developer, Coffee lover, Javascript fan.</p>
+
+🔭 I’m currently working on React
+
+🌱 I’m currently learning Unit Test in java
+
+👯 I’m looking to collaborate on new business ideas.
+
+💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻.
 
 
-  <a href="https://github.com/RobsonMendes37">
-</div>
-
-<!--
-**RobsonMendes37/RobsonMendes37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning pyton, english advanced
-- ⚡ Fun fact: The life is Hard
--->
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobsonMendes37&show_icons=true&theme=tokyonight)
-  
- ## Technologies I use in my daily life 
-<div style="display: inline_block">
-  
-  
-  <!-- learnig <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  -->
-  
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="pyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-
-  
-  
-</div><br/>
-  
-Passionate about technology, innovation, and changing people's world through programming.
-![Snake animation](https://github.com/RobsonMendes37/RobsonMendes37/blob/output/github-contribution-grid-snake.svg)
-
-  
- ## Social Media
+## Social Media
  
  <div>
   <a href="https://instagram.com/robsonqueiroz37" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/RobsonMendes37" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="mailto:robsonqueirozmendes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </div>
   
-  ##
-  
-  
+## 🚀💻 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-DD9C24?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-2F2F2F?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-002E4B?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-0E0629?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-1384C0?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![GitHub](https://img.shields.io/badge/-Insomnia-433C72?style=flat-square&logo=Insomnia)
+![Figma](https://img.shields.io/badge/-Figma-000?style=flat-square&logo=Figma)
+![Fhotoshop](https://img.shields.io/badge/-Photoshop-11152F?style=flat-square&logo=adobephotoshop)
+![Canva](https://img.shields.io/badge/-Canva-732DE6?style=flat-square&logo=canva)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel)
+![Vscode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
+![intellig](https://img.shields.io/badge/-Intellij-27282C?style=flat-square&logo=intellijIDEA)
+
+## ⚡ GitHub Stats
+
+![Robson GitHub](https://github-readme-stats.vercel.app/api?username=RobsonMendes37&show_icons=true&theme=tokyonight)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonMendes37&hide=TeX&layout=compact&theme=tokyonight) -->
