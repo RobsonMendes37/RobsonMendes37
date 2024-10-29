@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on React
 
-🌱 I’m currently learning Unit Test in java
+🌱 I’m currently learning developement movel
 
 👯 I’m looking to collaborate on new business ideas.
 
