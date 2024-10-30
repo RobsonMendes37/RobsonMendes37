@@ -9,7 +9,6 @@
 
 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻.
 
-
 ## Social Media
  
  <div>
