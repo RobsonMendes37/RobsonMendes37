@@ -1,7 +1,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Robson</h1>
 <p align = "justify">Fullstack Developer, Coffee lover, Javascript fan.</p>
 
-🔭 I’m currently working on React
+🔭 I’m currently working on React e Js
 
 🌱 I’m currently learning developement movel
 
