@@ -41,6 +41,7 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel)
 ![Vscode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
 ![intellig](https://img.shields.io/badge/-Intellij-27282C?style=flat-square&logo=intellijIDEA)
+![rust](https://img.shields.io/badge/-Rust-F55208?style=flat-square&logo=Rust)
 
 ## ⚡ GitHub Stats
 
