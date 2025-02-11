@@ -7,7 +7,7 @@
 
 👯 I’m looking to collaborate on new business ideas.
 
-💬 Ask me about life advice 🤣, tech solutions 👨‍💻.
+💬 Ask me about Design Patterns, tech solutions 👨‍💻.
 
 ## Social Media
 
